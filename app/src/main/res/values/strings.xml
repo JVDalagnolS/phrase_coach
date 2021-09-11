@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">phraseCoach</string>
+    <string name="title_splash">Caixa\nde\nFrases</string>
+    <string name="icon_splash_description">Icone de Frases</string>
+    <string name="btn_new_phrase">Frase!</string>
+    <string name="title_phrase">Clique no botão abaixo para gerar uma frase aleatória.</string>
+    <string name="phrase_1">"A vida é muito importante para ser levada a sério.  "</string>
+    <string name="phrase_2">Viver é a coisa mais rara do mundo. A maioria das pessoas apenas existe.</string>
+    <string name="phrase_3">"Pedras no caminho? Eu guardo todas. Um dia vou construir um castelo.  "</string>
+    <string name="phrase_4">"A verdadeira motivação vem de realização, desenvolvimento pessoal, satisfação no trabalho e reconhecimento.  "</string>
+    <string name="phrase_5">"Quer você acredite que consiga fazer uma coisa ou não, você está certo.  "</string>
+    <string name="phrase_6">"Acredite na justiça, mas não a que emana dos demais e sim na tua própria.    "</string>
+    <string name="phrase_7">"Acredite que você pode, assim você já está no meio do caminho.  "</string>
+    <string name="phrase_8">Se você ouvir uma voz dizendo \'não faça\', isso significa que você deve fazê-lo, acima de tudo. A voz vai se calar.</string>
+    <string name="phrase_9">Acredite em si próprio e chegará um dia em que os outros não terão outra escolha senão acreditar com você.</string>
+    <string name="phrase_10">"As grandes ideias surgem da observação dos pequenos detalhes.  "</string>
+    <string name="phrase_11">"Se um dia fecharem-lhe as portas da vida, pule a janela.  "</string>
+    <string name="phrase_12">Todos têm uma criança alegre dentro de si, mas poucos a deixam viver.</string>
+    <string name="phrase_13">Não deixe as coisas que você não pode fazer impedi-lo de fazer as coisas que pode.</string>
+    <string name="phrase_14">"Você pode encontrar muitas derrotas, mas você não pode se deixar derrotar.  "</string>
+    <string name="phrase_15">"Não deixe que as pessoas te façam desistir daquilo que você mais quer na vida. Acredite. Lute. Conquiste. E acima de tudo, seja feliz!  "</string>
+
+
+</resources>

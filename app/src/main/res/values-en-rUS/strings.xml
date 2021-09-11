@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">phraseCoach</string>
+    <string name="title_splash">Coach Phrases ®</string>
+    <string name="icon_splash_description">Phrase Icon</string>
+    <string name="btn_new_phrase">Generate New Phrase</string>
+    <string name="title_phrase">" Click the button below to generate a random phrase."</string>
+    <string name="phrase_1">"Life is too important to be taken seriously. "</string>
+    <string name="phrase_2">Living is the rarest thing in the world. Most people just exist.</string>
+    <string name="phrase_3">Stones on the way? I keep them all. One day I will build a castle.</string>
+    <string name="phrase_4">True motivation comes from achievement, personal development, job satisfaction and recognition.</string>
+    <string name="phrase_5">" Whether you believe you can do something or not, you are right."</string>
+    <string name="phrase_6">Believe in justice, but not that which emanates from others, but in your own.</string>
+    <string name="phrase_7">Believe you can, so you\'re halfway there.</string>
+    <string name="phrase_8">If you hear a voice saying \'don\'t do it\', it means you must do it above all else. The voice will be silent.</string>
+    <string name="phrase_9">Believe in yourself and there will come a day when others will have no choice but to believe with you.</string>
+    <string name="phrase_10">"Great ideas come from observing the small details. "</string>
+    <string name="phrase_11">If one day the doors of life are closed to you, jump out the window.</string>
+    <string name="phrase_12">"Everyone has a happy child inside them, but few let it live. "</string>
+    <string name="phrase_13">Don\'t let the things you can\'t do stop you from doing the things you can</string>
+    <string name="phrase_14">You can find many defeats, but you cannot let yourself be defeated.</string>
+    <string name="phrase_15">Don\'t let people make you give up what you most want in life. Believe. Fight. Conquer. And above all, be happy!</string>
+</resources>
